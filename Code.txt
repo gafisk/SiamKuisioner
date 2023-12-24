@@ -1,0 +1,1 @@
+for(var i = 1; i <= 10; i++){jQuery("#"+(9+i)+"_"+(i)+"3").attr("checked",true);}for(var i = 1; i <= 9; i++){jQuery("#"+(19+i)+"_"+(11+i)+"3").attr("checked",true);}for(var i = 3; i <= 9; i++){jQuery("#"+i+"_"+(18+i)+"3").attr("checked",true);}jQuery("#"+2+"_"+(11)+"3").attr("checked",true);jQuery("#"+1+"_03").attr("checked",true);document.getElementById('saran').value = '-';
